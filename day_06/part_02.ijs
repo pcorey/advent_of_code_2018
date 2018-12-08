@@ -23,4 +23,4 @@ grid =. 3 : 0
 )
 
 numbers =. ". input
-# #~ , 10000 > grid numbers
+viewmat 10000 > grid numbers
